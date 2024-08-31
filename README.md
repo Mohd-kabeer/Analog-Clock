@@ -1,1 +1,1 @@
-Analog Clock Using HTML,CSS,JAVA
+Analog Clock Using HTML,CSS,JAVASCRIPT
